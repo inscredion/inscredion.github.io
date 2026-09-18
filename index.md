@@ -9,7 +9,7 @@ title: Chi Zhang | Home
     <td style="vertical-align: top; border: none;">
       <!-- <h1>Chi Zhang (inscredion)</h1> -->
       <!-- <p><b>MLLM / Agent Algorithm Engineer @ Alibaba</b></p> -->
-      <p>I am currently an Algorithm Engineer at <b>Alibaba Group</b>. My research and work focus on <b>Multi-modal Large Language Models (MLLMs)</b> and <b>Agents</b>. I received my Master's degree from <b>Xiamen University (XMU)</b> in 2023, where I was privileged to be advised by <a href="https://xmu-smartdsp.github.io/teamindex/xhding.html">Prof. Xinghao Ding</a> at the <a href="https://xmu-smartdsp.github.io/">SmartDSP Lab</a>. I also collaborated with Prof. Congbo Cai at the <a href="https://smri.xmu.edu.cn/#/">SmartMRI</a>.</p>
+      <p>I am currently an Algorithm Engineer at <b>Taobao & Tmall Group of Alibaba </b>. My research and work focus on <b>Multi-modal Large Language Models (MLLMs)</b> and <b>Agents</b>. I received my Master's degree from <b>Xiamen University (XMU)</b> in 2023, where I was privileged to be advised by <a href="https://xmu-smartdsp.github.io/teamindex/xhding.html">Prof. Xinghao Ding</a> at the <a href="https://xmu-smartdsp.github.io/">SmartDSP Lab</a>. I also collaborated with Prof. Congbo Cai at the <a href="https://smri.xmu.edu.cn/#/">SmartMRI</a>.</p>
       <p>
         📧 <b>Email:</b> <a href="mailto:inscredion@stu.xmu.edu.cn">inscredion@stu.xmu.edu.cn</a> / <a href="mailto:yinxi.zc@alibaba-inc.com">yinxi.zc@alibaba-inc.com</a> <br>
         🔗 <b>Links:</b> 

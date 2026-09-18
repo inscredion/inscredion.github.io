@@ -62,6 +62,7 @@ title: Chi Zhang | Home
 *   **Journal Reviewer:**  
     *   IEEE Transactions on Medical Imaging (TMI)
     *   IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    *   IEEE Signal Processing Letters （SPL）
 
 ### 💼 Work Experience
 *   **Alibaba Group** /|*Senior Algorithm Engineer* / 2025.08 - Present
